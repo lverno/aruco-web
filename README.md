@@ -1,3 +1,3 @@
 # Aruco marker detection in the browser
 
-Demo: [link](google.com)
+Demo: <https://lverno.github.io/aruco-web/>
